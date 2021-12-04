@@ -1,5 +1,5 @@
 const nameGirl = "Bảo bối ❤️";
-const giftUrl = "https://www.facebook.com/haoham137/";
+const giftUrl = "m.me/nch310";
 const eventName = "Chúc Mừng Sinh Nhật";
 const titleCard = "Tặng người ấy";
 const contentCard =
